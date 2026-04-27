@@ -1,8 +1,9 @@
 # IoT-Based Smart children-s Room Monitoring System
 
-This project is an end-to-end IoT ecosystem developed under the **TÜBİTAK 2209-A University Students Research Projects Support Program**. Its primary goal is to provide continuous, secure, and real-time monitoring of environmental factors (temperature and humidity) in a baby's room.
 
-💡 **Note:** This repository contains the **IoT Edge Node, Gateway, and Server (Cloud/Database)** layers of the project[cite: 248, 273]. The mobile application component is managed by our teammate and is therefore not included in this repository.
+[cite_start]This project is an end-to-end IoT ecosystem developed under the **TÜBİTAK 2209-A University Students Research Projects Support Program**[cite: 2]. [cite_start]Its primary goal is to provide continuous, secure, and real-time monitoring of environmental factors (temperature and humidity) in a baby's room[cite: 213].
+
+> [cite_start]💡 **Note:** This repository contains the **IoT Edge Node, Gateway, and Server (Cloud/Database)** layers of the project[cite: 248, 273]. The mobile application component is managed by our teammate and is therefore not included in this repository.
 
 ## 🏗 System Architecture
 
