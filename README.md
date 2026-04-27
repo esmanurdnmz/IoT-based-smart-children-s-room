@@ -35,7 +35,7 @@ The system features a multi-layered architecture where low-cost hardware integra
 
 * **İhsan Yiğit ÖNAY** - Project Manager (System integration, hardware setup, and testing)
 * **Esmanur DÖNMEZ** - Developer (AWS IoT cloud architecture, Node-RED server integration, and database management)
-* **Berna ÇELİL** - Developer (Requirements analysis and test optimizations)
+* **Berna ÇELİK** - Developer (Requirements analysis and test optimizations)
 * **Assist. Prof. Dr. Ebru AYDOĞAN** - Project Advisor
 
 ---
